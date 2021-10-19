@@ -37,7 +37,7 @@
     "node": ">= v0.8.x"
   },
   "dependencies": {
-    "safe": "~0.4.x",
+    "safe": "0.4.6",
     "lodash": "~4.17.x",
     "mkdirp": "~0.5.x",
     "tingodb": "github:root-core/tingodb#fully_patched",
